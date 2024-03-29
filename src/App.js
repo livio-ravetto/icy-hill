@@ -10,7 +10,7 @@ function App() {
                     Edit <code>src/App.js</code> and save to reload.
                 </p>
                 <div>
-                    <h1>Welcome to my app</h1>
+                    <h1>Welcome to my app, Emily!</h1>
                     <MyButton/>
                 </div>
             </header>
